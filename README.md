@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamsahil08
 - 👀 I’m interested in Competitive coding and Web Development
 - 🌱 I’m currently learning Data Structures, Algorithms, and C++
-- 💞
+- 💞 Developing softwares which helps poeple and make their life easy.
 - 📫 How to reach me sahil.nag.cer19@itbhu.ac.in
 
 
